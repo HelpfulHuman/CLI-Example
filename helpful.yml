@@ -1,0 +1,7 @@
+ask:
+  - name: yourName
+    message: What is your name?
+copy:
+  - path: index.html
+done:
+  message: Open index.html
